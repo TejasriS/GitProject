@@ -6,6 +6,10 @@ Changed : implemented Login Feature
 
 Changed: implemented Logout
 
+
 change:to fix the bug1
 
 change: change made by teammate for payment gateway
+
+change:to fix bug2
+
